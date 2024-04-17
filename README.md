@@ -10,7 +10,7 @@ This is an academic paper project page template. Example project pages built usi
 
 ## Start using the template
 
-To start using the template, click on `Use this Template`. If you have already created a code repository for your project, you can copy the `.github/`, `static/`, and `index.html` folders and files to the root directory of your project repository. GitHub Pages will be built after you push changes to your `main` branch, and the building process and link can be checked under the `Actions` tab on your repository's GitHub main page.
+To start using the template, click on `Use this Template`. If you have already created a code repository for your project, you can copy the `.github/`, `static/`, and `index.html` folders and files to the root directory of your project repository. Follow steps 3-6 of [this guide](https://docs.github.com/en/pages/quickstart) to enable GitHub pages. GitHub Pages will be built after you push changes to your `main` branch, and the building process and link can be checked under the `Actions` tab on your repository's GitHub main page.
 
 _P.S. If the main branch of your repository is `master`, please edit the 7th line of `.github/workflows/static.yml` accordingly._
 
